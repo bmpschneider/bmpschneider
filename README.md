@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hello! I'm Bruno 👋
 
+I'm a Web Development passionate about learning new technologies.
+
+- 🌱 I'm currently improving my backend knowledge with NodeJs, Typescript and MongoDB
+- :pencil: I'm a student of Information Systems at UFSC / SC
+- 💬 Ask me about JavaScript and Beers! I'll try my best to help!
+- 👯 I’m looking to collaborate on open source projects with social impact!
+- 📫 How to reach me: https://www.linkedin.com/in/brunopschneider
 <!--
 **bmpschneider/bmpschneider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
